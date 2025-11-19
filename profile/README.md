@@ -22,7 +22,7 @@ And you compile and run it like this:
 cd MyConsoloniaApp
 dotnet run
 ```
-[Learn more](https://github.com/jinek/Consolonia/wiki/QuickStart)
+[Learn more](https://github.com/Consolonia/Consolonia/wiki/QuickStart)
 
 ## 🎯 Why Consolonia Matters
 
@@ -85,5 +85,5 @@ dotnet tool uninstall -g Consolonia.Gallery
 ```
 
 ## See wiki for documentation
-https://github.com/jinek/Consolonia/wiki
+https://github.com/Consolonia/Consolonia/wiki
 
